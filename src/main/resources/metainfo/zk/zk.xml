@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zk>
+	<config-name>kgf</config-name>
+	<client-config>
+		<data-handler>
+			<name>kgf</name> 
+			<link href="~./css/kgf.css" rel="stylesheet" /> <!-- custom css -->
+			<script src="~./js/lib/kgf-3rd-party.js" /> <!-- 3rd party Library -->
+            <script src="~./js/kgf.js" /> <!-- Data Handler Script -->
+		</data-handler>
+	</client-config>
+</zk>
